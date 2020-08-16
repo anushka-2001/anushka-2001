@@ -22,7 +22,7 @@ Hi, I'm Anushka! a programmer 👨🏻‍💻 from India. I like coding in Pytho
 
 
 
-**Current Status **
+## Current Status 
 
 <!--  - 👨🏻‍💻 I’m currently working on [ProjectBasedLearning community](https://github.com/ProjectBasedLearning/resources). -->
 - 🌱 I’m currently learning Machine learning in Python.
