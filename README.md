@@ -17,7 +17,7 @@
 <br />
 <br />
 
-Hi, I'm Anushka! a programmer 👨🏻‍💻 from India. I like coding in Python 🐍 . Currently, I'm working on research papers based on machine learning. Beside's programming, I like singing 🎙 and dancing 💃.
+Hi, I'm Anushka! a programmer 👨🏻‍💻 from India. I like coding in Python 🐍 . Currently, I'm working on research papers based on machine learning. Besides programming, I like singing 🎙 and dancing 💃.
   <img align="right" alt="GIF" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/source.gif" />
 
 
