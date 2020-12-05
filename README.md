@@ -1,4 +1,15 @@
-### Hi there! 👋
+![Profile views](https://komarev.com/ghpvc/?username=anushka-2001)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/anushka-2001)
+
+
+# <h1 align="center"> Welcome 👋</h1> 
+
+
+  
+
+
+
+## <h1 align="left"> About Me </h1> 
 
 
 
