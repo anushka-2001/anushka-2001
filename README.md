@@ -40,7 +40,6 @@ Hi, I'm Anushka! a programmer 👨🏻‍💻 from India. I like coding in Pytho
 ![Anushka's github stats](https://github-readme-stats.vercel.app/api?username=anushka-2001&show_icons=true&hide_border=true)
 <br><br>
 ### Connect with me
-<br>
 <a href="https://www.linkedin.com/in/anushka-bhagchandani-07659618b/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
