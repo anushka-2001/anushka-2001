@@ -1,10 +1,11 @@
-![Profile views](https://komarev.com/ghpvc/?username=anushka-2001)
+<p align="center"> <img src= "https://komarev.com/ghpvc/?username=anushka-2001" alt="anushka" /> </p>
 
 
 
-# <h1 align="center"> Welcome 👋</h1> 
 
-<img align ="center" alt="sup?" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" >
+# <h1 align="center">I'm Anushka Bhagchandani 👋</h1> 
+
+<p align ="center"><img  alt="sup?" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" >
   
 
 
@@ -52,7 +53,7 @@ Hi, I'm Anushka! a programmer 👨🏻‍💻 from India. I like coding in Pytho
 </a>
 <br>
 <br>
- 
+ </p>
 
 
 ⭐️ From [anushka-2001](https://github.com/anushka-2001)
